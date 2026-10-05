@@ -1,5 +1,5 @@
-A demo app for iPhone
-=====================
+British pub helper app to buy a round
+=====================================
 
 This app helps buying a round at the pub.
 

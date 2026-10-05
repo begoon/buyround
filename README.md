@@ -1,5 +1,5 @@
-British pub helper app to buy a round
-=====================================
+iPhone app to help buy a round at the pub
+=========================================
 
 This app helps buying a round at the pub.
 
